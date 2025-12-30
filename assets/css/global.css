@@ -3,12 +3,21 @@
 body {
     user-select: none;
     font-family: "Google Sans", sans-serif;
-}
 
-.main {
     margin: 5px;
     border: 2px;
     border-radius: 2%;
     border-color: crimson;
 }
 
+.navbar {
+    border: 2px;
+    border-radius: 3%;
+    border-color:azure;
+    background-color: aliceblue;
+}
+
+.navbar ul {
+    align-items: start;
+
+}
