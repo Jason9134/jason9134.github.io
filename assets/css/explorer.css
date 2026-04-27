@@ -10,3 +10,7 @@
     display: inline-block;
 }
 
+.title-bar-icon {
+    max-width: 16px;
+    max-height: auto;
+}
