@@ -1,4 +1,4 @@
-.topbar {
+/*.topbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -8,4 +8,4 @@
 .topbar.items {
     width: 100px;
     display: inline-block;
-}
+}*/
